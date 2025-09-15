@@ -20,7 +20,7 @@ The simulator predicts pH-dependent elution chromatograms, highlights key amino 
   - Aggregation risk  
   - Ligand leakage  
 
-## 🔗 Access Here - https://gopizux.github.io/Virtual-Affinity-Chromatography-Simulation/
+## 🔗 Access Here - [pH Simulation](https://gopizux.github.io/Virtual-Affinity-Chromatography-Simulation/)
 ---
 
 ## 📂 Project Structure
