@@ -9,6 +9,8 @@ body {
   background-color: #fff;
   width: 100%;
   min-height: 100vh;
+  display: flex;
+  justify-content: center;
 }
 
 .container {
@@ -26,7 +28,12 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 20px;
+}
+
+@media (min-width: 1601px) {
+  .header {
+    border-radius: 20px 20px 0 0;
+  }
 }
 
 .header-content {
