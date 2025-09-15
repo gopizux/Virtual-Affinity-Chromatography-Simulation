@@ -59,7 +59,7 @@ Binding Capacity
 Ligand Leakage
 10 – (stabilityScore ÷ 10) (min 2 µg/mL)
 
-## 🧪 Biological Interpretation
+##  Biological Interpretation
 
 A lower Elution Peak pH means antibodies release at harsher (more acidic) conditions → can damage antibody.
 
