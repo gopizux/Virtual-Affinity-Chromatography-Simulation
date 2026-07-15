@@ -5,7 +5,7 @@ The simulator predicts pH-dependent elution chromatograms, highlights key amino 
 
 ---
 
-## 🚀 Features
+## Features
 - Interactive input for engineered Protein A sequences  
 - Support for **monomeric, tetrameric, and peptide ligands**  
 - Adjustable **column volume**, **flow rate**, and **pH gradient slope**  
@@ -18,10 +18,10 @@ The simulator predicts pH-dependent elution chromatograms, highlights key amino 
   - Aggregation risk  
   - Ligand leakage  
 
-## 🔗 Access Here - [pH Simulation](https://gopizux.github.io/Virtual-Affinity-Chromatography-Simulation/)
+## Access Here - [pH Simulation](https://gopizux.github.io/Virtual-Affinity-Chromatography-Simulation/)
 ---
 
-## 📂 Project Structure
+## Project Structure
 Depending on ligand type:
 
 Monomeric → sequence used as-is.
