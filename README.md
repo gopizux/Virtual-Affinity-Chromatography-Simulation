@@ -3,8 +3,6 @@
 An interactive web tool to simulate antibody elution profiles for engineered **Protein A variants** and **peptide ligands**.  
 The simulator predicts pH-dependent elution chromatograms, highlights key amino acid residues, and estimates performance metrics like **binding capacity**, **alkaline stability**, and **ligand leakage**.
 
-<img width="835" height="1006" alt="Screenshot 2025-09-12 at 15-45-04 Engineered Protein A pH Elution Simulator" src="https://github.com/user-attachments/assets/a4362ea8-4035-4d8c-9484-3f3e87e07f5a" />
-
 ---
 
 ## 🚀 Features
